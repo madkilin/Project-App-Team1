@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
     "name": "app_tolist_team1",
     "short_name": "app_tolist_team1",
-=======
-    "name": "tolist_team1",
-    "short_name": "tolist_team1",
->>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

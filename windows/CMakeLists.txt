@@ -1,18 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-<<<<<<< HEAD
 project(app_tolist_team1 LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "app_tolist_team1")
-=======
-project(tolist_team1 LANGUAGES CXX)
-
-# The name of the executable created for the application. Change this to change
-# the on-disk name of your application.
-set(BINARY_NAME "tolist_team1")
->>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
