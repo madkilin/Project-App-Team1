@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 
 import '../data/firestore.dart';
 
+// ignore: must_be_immutable
 class Stream_note extends StatelessWidget {
   bool done;
   Stream_note(this.done, {super.key});

@@ -1,6 +1,38 @@
 # Tolist_App
 
-A new Flutter project.
+Tolist is a simple app designed to help you record and manage your daily task lists. With a clean and user-friendly interface, Tolist allows you to quickly and efficiently add, edit, and delete tasks. This app is perfect for anyone looking to maintain productivity and organization in their daily activities. Whether for work, school, or personal needs, Tolist ensures you never miss a task. Stay organized and achieve your goals with Tolist!
+
+## Team 1
+
+- Mochammad Agus Dharma Kilin (2106015)
+- Shadam Alfito Karisma Putra (2106)
+- Dika (2106004)
+- Fachrry Al Fachrizzy Risyandi (2006193)
+
+## Installation
+
+1. **Clone this Repository**
+    ```bash
+    git clone https://github.com/madkilin/Project-App-Team1.git 
+    ```
+
+2. **Install Dependencies**
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the Application**
+    ```bash
+    flutter run
+    ```
+
+## Features
+
+- **Login**
+- **Register**
+- **Add Note**
+- **Edit Note**
+- **Delete Note**
 
 ## Getting Started
 

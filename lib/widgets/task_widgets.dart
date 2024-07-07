@@ -4,6 +4,7 @@ import 'package:app_tolist_team1/model/notes_model.dart';
 import 'package:app_tolist_team1/screen/edit_note.dart';
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class Task_Widget extends StatefulWidget {
   Note _note;
   Task_Widget(this._note, {super.key});
