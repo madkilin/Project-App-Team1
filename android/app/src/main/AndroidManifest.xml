@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="app_tolist_team1"
+=======
+        android:label="tolist_team1"
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

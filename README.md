@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # app_tolist_team1
+=======
+# Tolist_App
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
 
 A new Flutter project.
 

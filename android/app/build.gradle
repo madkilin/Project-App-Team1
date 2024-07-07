@@ -3,7 +3,10 @@ plugins {
     id "kotlin-android"
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id "dev.flutter.flutter-gradle-plugin"
+<<<<<<< HEAD
     id 'com.google.gms.google-services'
+=======
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
 }
 
 def localProperties = new Properties()
@@ -25,7 +28,11 @@ if (flutterVersionName == null) {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.app_tolist_team1"
+=======
+    namespace = "com.example.tolist_team1"
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -36,7 +43,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.app_tolist_team1"
+=======
+        applicationId = "com.example.tolist_team1"
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdk = flutter.minSdkVersion
@@ -57,6 +68,7 @@ android {
 flutter {
     source = "../.."
 }
+<<<<<<< HEAD
 
 dependencies {
   // Import the Firebase BoM
@@ -71,3 +83,5 @@ dependencies {
 
 apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
+=======
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab

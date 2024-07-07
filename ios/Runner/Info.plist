@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>App Tolist Team1</string>
+=======
+	<string>Tolist Team1</string>
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>app_tolist_team1</string>
+=======
+	<string>tolist_team1</string>
+>>>>>>> 49e20aa0493d1699d35d87103d39101f0f2429ab
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
